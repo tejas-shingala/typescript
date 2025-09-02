@@ -6,7 +6,7 @@ function isPrime(num: number): boolean {
   return true;
 }
 
-const a: number = 17; // Change the number here
+const a: number = 17; 
 if (isPrime(a)) {
   console.log(`${a} is a Prime Number`);
 } else {
